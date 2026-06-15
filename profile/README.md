@@ -17,4 +17,4 @@ Nacarat is an Arch Linux based distribution that focuses on providing a user-fri
 - [center](https://github.com/nacaratOS/center) - a graphical control center for Nacarat.
 
 ---
-2026 Nacarat OS
+2026 Nacarat Operating System
