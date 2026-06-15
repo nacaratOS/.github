@@ -12,9 +12,10 @@ Nacarat is an Arch Linux based distribution that focuses on providing a user-fri
 - **A New Package Manager**: Nacarat innovates a new package manager named "Uno". Uno is designed to be fast and setup its servers on your home.
 
 ## Nacarat Repositories
-- [Welcome](https://github.com/nacaratOS/welcome) - a graphical installer for Nacarat.
-- [Uno](https://github.com/nacaratOS/uno) - the new package manager for Nacarat.
-- [center](https://github.com/nacaratOS/center) - a graphical control center for Nacarat.
+- [Welcome](https://github.com/nacaratOS/welcome) - A graphical installer for Nacarat.
+- [Uno](https://github.com/nacaratOS/uno) - The new package manager for Nacarat.
+- [Health Center](https://github.com/nacaratOS/center) - A graphical control center for Nacarat.
 
 ---
 2026 Nacarat Operating System
+by YusufErdemK and GamerCinarTR
